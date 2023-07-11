@@ -1,10 +1,10 @@
 <template>
-  <nav>
-    <router-link to="/">Home</router-link> |
-    <router-link to="/about">About</router-link>
-  </nav>
-  <button class="btn btn-primary">Prueba</button>
-  <router-view/>
+  <!-- <nav> -->
+    <!-- <router-link to="/">Home</router-link> | -->
+    <!-- <router-link to="/about">About</router-link>
+  </nav> -->
+  <!-- <button class="btn btn-primary">Prueba</button> -->
+  <router-view/> 
 </template>
 
 <style scoped lang="scss">
