@@ -9,8 +9,8 @@
            <nav class="navbar navbar-expand-lg navbar-fixed-top ">
             <div class="container-fluid" > 
               
-              <div class="collapse navbar-collapse" id="navbarSupportedContent">
-                <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+              <div class="collapse navbar-collapse justify-content-center " id="navbarSupportedContent">
+                <ul class="navbar-nav  mb-2 mb-lg-0">
                        
                   
                   <!-- ----------desplegable Escuela Montaño-------- -->
